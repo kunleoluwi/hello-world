@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> I built this site, Ayo Oluwi !! </h1>
+   <h1> I built this site, Angie Oluwi !! </h1>
 
   
 </form>
