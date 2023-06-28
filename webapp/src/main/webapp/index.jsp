@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> This site was buit Angie Oluwi  on June 26,2023!! </h1>
+   <h1> This site was built Angie Oluwi  on June 27,2023!! </h1>
 
   
 </form>
