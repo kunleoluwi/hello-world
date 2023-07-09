@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> This site was built Angie Oluwi on June 30, 2023!!! </h1>
+   <h1> Hi Angie, have you been watering the plants.Have you started on the new topic?? </h1>
 
   
 </form>
