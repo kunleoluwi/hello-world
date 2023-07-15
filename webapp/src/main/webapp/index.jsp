@@ -31,7 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Hi Angie, have you been watering the plants.Have you started on the new topic?? 
+   <h1> Hi Angie, have you been watering the plants.Have you finished Chapter 2?
+
    Do you miss me now? Today's date July 15 2023</h1>
 
   
