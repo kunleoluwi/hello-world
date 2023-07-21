@@ -33,7 +33,7 @@
 
    <h1> Hi Angie, have you been watering the plants.Have you finished Chapter 2?
 
-   Angie's Youth Conference today's date July 22 2023</h1>
+   Angie's Youth Conference today's date July 24 2023</h1>
 
   
 </form>
