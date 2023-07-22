@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Hi Angie, have you been watering the plants.Have you finished Chapter 3 ?
+   <h1> Hi Angie, I how was your conference? Hope you are learning something new?
 
    Angie's MFM Youth Conference today's  July 22 2023</h1>
 
