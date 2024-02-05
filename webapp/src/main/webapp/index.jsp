@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Hi Angie, I how was your conference? Hope you are learning something new?
+   <h1> Hi Angie, I how was your conference? Hope you are learning something new???
 
    My interview today 02/05 was a little challeging but I know Yahweh us in control.He is never late</h1>
 
